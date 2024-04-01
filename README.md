@@ -1,4 +1,9 @@
-### Hi, my name is Joshua!
+### Hi, my name is Joshua and welcome to my GitHub account!
+
+    📚 I am currently studying computer science at the [James Madison University](https://www.jmu.edu/index.shtml)<br/>
+    💻 Currently, I am trying to make my own porfolio website! Which will be my first personal project!<br/>
+    🎻One of my other passions is to create music and content with my friends on our Youtube channel [Piano Palace](https://www.youtube.com/@pianopalaceofficial)<br/>
+    [![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshuaAHairston&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoshuaAHairston/JoshuaAHairston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
