@@ -1,6 +1,6 @@
 # 💫 About Me
 
-📚 I am currently studying computer science at the James Madison University<br>💻 Currently, I am trying to make my porfolio website! Which will be my first personal project!<br>🎻One of my other passions is to create music and content with my friends on our YouTube channel Piano Palace
+📚 I am currently studying computer science at Virginia Tech for my MS!<br>💻 Currently, I am working on my own personal website.<br>🎻One of my other passions is to create music and content with my friends on our YouTube channel Piano Palace.
 
 ## 🌐 Socials
 
