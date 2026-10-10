@@ -1,6 +1,6 @@
 # 💫 About Me
 
-📚 I am currently studying computer science at Virginia Tech for my MS!<br>💻 Currently, I am working on my own personal website.<br>🎻One of my other passions is to create music and content with my friends on our YouTube channel Piano Palace.
+I am currently studying computer science at Virginia Tech for my MS while being the violist of The Virginia Strings Project. The Virginia Strings Project travels nationwide to play at weddings and other events. You could say I am a pretty busy person.
 
 ## 🌐 Socials
 
